@@ -1,13 +1,22 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsgautamkr07/itsgautamkr07/main/banner.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 
 <h3 align="center">🚀 Java Developer | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Enthusiast;React+Developer;Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Java+Developer;Spring+Boot+Developer;React+Developer;Microservices+Enthusiast;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsgautamkr07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=itsgautamkr07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/itsgautamkr07?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -20,7 +29,7 @@
 
 🌱 Currently Learning Spring Boot, React & Microservices
 
-📚 Strong Foundation in DSA, DBMS, OOP & Operating Systems
+📚 Strong Foundation in Data Structures & Algorithms, DBMS, OOP & Operating Systems
 
 🚀 Building Scalable Web Applications
 
@@ -30,46 +39,17 @@
 
 # 🚀 Tech Stack
 
-### Programming Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,spring,react,nodejs,express,mysql,mongodb,git,github,vscode,idea,postman,html,css" />
 </p>
 
-### Backend Development
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-- REST APIs
-- Microservices
-- JDBC
-- Backend Services
-
-### Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
-
-### Core Computer Science
+# ⚡ Core Competencies
 
 ✅ Data Structures & Algorithms
 
-✅ Object-Oriented Programming
+✅ Object Oriented Programming
 
 ✅ Database Management Systems
 
@@ -77,14 +57,20 @@
 
 ✅ Software Development
 
+✅ REST APIs
+
+✅ Microservices Architecture
+
+✅ Backend Development
+
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsgautamkr07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgautamkr07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsgautamkr07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgautamkr07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -108,7 +94,23 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itsgautamkr07&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=itsgautamkr07&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+# 📋 Developer Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsgautamkr07&theme=tokyonight" />
+</p>
+
+---
+
+# 🌈 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -137,7 +139,9 @@
 
 🔹 Problem Solving
 
-🔹 Data Structures & Algorithms
+🔹 Analytical Thinking
+
+🔹 Team Collaboration
 
 ---
 
@@ -155,9 +159,9 @@
 
 # 📫 Connect With Me
 
-📧 Email: **gautamkm9006863071@gmail.com**
+📧 Email: **[gautamkm9006863071@gmail.com](mailto:gautamkm9006863071@gmail.com)**
 
-🐙 GitHub: **https://github.com/itsgautamkr07**
+🐙 GitHub: **github.com/itsgautamkr07**
 
 ---
 

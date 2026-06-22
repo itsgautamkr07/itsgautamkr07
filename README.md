@@ -96,10 +96,16 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itsgautamkr07&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsgautamkr07&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
+
+# 📋 Developer Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsgautamkr07&theme=tokyonight" />
+</p>
 
 # 💡 Featured Skills
 

@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 
-<!--
-**itsgautamkr07/itsgautamkr07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 B.Tech CSE Student | Web Developer | Tech Explorer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Java+Developer;Python+Programmer;Future+Software+Engineer;Open+to+Opportunities"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+🎓 B.Tech CSE Student
+
+💻 Web Developer
+
+🌱 Learning .NET & React
+
+🏏 Cricket Enthusiast
+
+🎯 Goal: Software Engineer
+
+---
+
+### 🛠️ Skills
+
+Java • Python • HTML • CSS • JavaScript • SQL • Git • GitHub
+
+---
+
+### 📫 Connect With Me
+
+GitHub: github.com/itsgautamkr07

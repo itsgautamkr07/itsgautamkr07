@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsgautamkr07/itsgautamkr07/main/banner.png" width="100%">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsgautamkr07/itsgautamkr07/main/banner.png" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 

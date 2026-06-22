@@ -144,7 +144,7 @@
 
 📧 Email: **[gautamkm9006863071@gmail.com](mailto:gautamkm9006863071@gmail.com)**
 
-🐙 GitHub: **github.com/itsgautamkr07**
+🐙 GitHub: **<a href="https://github.com/itsgautamkr07" target="_blank">github.com/itsgautamkr07</a>**
 
 ---
 

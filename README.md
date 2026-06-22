@@ -1,101 +1,148 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsgautamkr07/itsgautamkr07/main/banner.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 
 <h3 align="center">🚀 Java Developer | Full Stack Developer | Problem Solver</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
-</div>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-### 👨‍💻 About Me
-
-- 🎓 B.Tech Student at **Vignan Foundation for Science, Technology and Research**
-- 💻 Passionate about **Java Development & Full Stack Development**
-- 🌱 Currently learning **Spring Boot, React, DSA, System Design**
-- 🚀 Preparing for **Software Engineering Roles**
-- 🎯 Goal: Become a successful Full Stack Developer
-- 🏏 Love Cricket & 🎵 Music
-
----
-
-### 🛠️ Tech Stack
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Java+Developer;Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;B.Tech+CSE+Student;Future+Software+Engineer" />
+</p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=itsgautamkr07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/itsgautamkr07?label=Followers&style=for-the-badge&color=blue" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 👨‍💻 About Me
+
+🎓 B.Tech Student at **Vignan Foundation for Science, Technology and Research**
+
+💻 Passionate about **Java Development & Full Stack Development**
+
+🌱 Currently Learning **Spring Boot, React, DSA & System Design**
+
+📚 Strong Foundation in **Java, OOP, DBMS, Operating Systems & Data Structures**
+
+🚀 Building Real-World Projects and Improving Problem Solving Skills
+
+🎯 Goal: Become a Successful Software Engineer
+
+🏏 Cricket Lover | 🎵 Music Enthusiast
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,spring,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+# ⚡ Core Competencies
+
+✅ Data Structures & Algorithms
+
+✅ Object Oriented Programming
+
+✅ Database Management Systems
+
+✅ Operating Systems
+
+✅ Java Development
+
+✅ Full Stack Development
+
+✅ Problem Solving
+
+✅ Team Collaboration
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsgautamkr07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgautamkr07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+<img src="https://streak-stats.demolab.com?user=itsgautamkr07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 💡 Quote
+# 📈 Contribution Graph
 
-<div align="center">
-
-### "Code. Learn. Build. Repeat. 🚀"
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsgautamkr07&theme=tokyo-night" />
+</p>
 
 ---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=itsgautamkr07&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
-</div>
+---
+
+# 💡 Featured Skills
+
+🔹 Java
+
+🔹 Spring Boot
+
+🔹 React.js
+
+🔹 MySQL
+
+🔹 HTML
+
+🔹 CSS
+
+🔹 JavaScript
+
+🔹 Git & GitHub
+
+🔹 Data Structures & Algorithms
+
+🔹 Problem Solving
+
+---
+
+# 🎯 Current Focus
+
+📚 Mastering Java & Spring Boot
+
+⚛️ Building React Projects
+
+🧠 Practicing DSA Daily
+
+🚀 Preparing for Placement Opportunities
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **[gautamkm9006863071@gmail.com](mailto:gautamkm9006863071@gmail.com)**
+
+🐙 GitHub: **github.com/itsgautamkr07**
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>

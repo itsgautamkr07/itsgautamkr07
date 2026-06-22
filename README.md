@@ -39,9 +39,8 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,spring,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,react,python,c,mysql,html,css,javascript,git,github,vscode" />
 </p>
-
 ---
 
 # ⚡ Core Competencies
